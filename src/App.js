@@ -1,4 +1,4 @@
-// Orosz Oivér 2025.01.31 18:30 megjegyzés: IGEN, mondta a sündisznó miután leszállt a drótkefféről 
+// Orosz Oivér 2025.01.31 18:30 
 
 import React, { useState } from 'react';
 import './App.css';
